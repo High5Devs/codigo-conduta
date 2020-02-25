@@ -38,4 +38,4 @@ Um objetivo complementar desse Código de Conduta é aumentar a cidadania Open S
 
 Esperamos que as pessoas participantes sigam essas regras em todos os locais de eventos e eventos sociais relacionados.
 
-*Este código de conduta é um cópia autorizada do código de conduta da Xamarin Summit e baseado no Código de Conduta da JSConf™ e no Código de Conduta do Cidadão.
+*Este código de conduta é um cópia autorizada do código de conduta do Xamarin Summit e baseado no Código de Conduta da JSConf™ e no Código de Conduta do Cidadão.*
