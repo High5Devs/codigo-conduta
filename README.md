@@ -12,7 +12,7 @@ O High5Devs se dedica a promover uma experiência livre de assédios para todas 
 
 Este documento existe para permitir que as pessoas participantes do High5Devs possam criar/ter uma atmosfera que seja profissional, empática e propícia à aprendizagem.
 
-### Comportamento esperado do participante
+### Comportamento esperado da participante
 
 As pessoas envolvidas devem se comportar de forma adequada e profissional durante as suas participações nos eventos. Individualmente, todos os participantes devem evitar ativamente atos intencionais e não intencionais de assédio a outros participantes. O assédio inclui comentários ofensivos relacionados ao gênero, orientação sexual, incapacidade, aparência física, tamanho do corpo, raça, religião, imagens sexuais em espaços públicos, intimidação deliberada, perseguições, fotografias ou gravações que configurem assédio, interrupções contínuas de palestras ou outros eventos, contato físico inadequado e atenção sexual indesejada.
 
